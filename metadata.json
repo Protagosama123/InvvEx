@@ -1,0 +1,6 @@
+{
+  "name": "InvEx",
+  "description": "InvEx Exam and Examination Management System with smart admit cards, schedule tracking, and broadcasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
